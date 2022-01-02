@@ -2,7 +2,7 @@
 Various popular algorithms implemented in Ruby
 
 # Dynamic
-These algorithms take the approach of solving the problem by splitting it into sub-problems and solving each sub-problem then storing its solution for a later final calculation resulting in the answer; this can simplify complex problems and reduce computation time... 
+These algorithms take the approach of solving the problem by splitting it into sub-problems and solving each sub-problem then storing its solution for a later final calculation resulting in the answer; this can simplify complex problems and reduce computation time from exponential to polynomial. Useful when the problem contains code called multiple times .. 
  - Fibonacci
  - Longest common subsequence
  - Longest increasing subsequence?
